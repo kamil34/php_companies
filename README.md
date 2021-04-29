@@ -43,4 +43,4 @@ You can contact me if you have found any bugs or something that can make the scr
 It may help me improving my project.
 
 ## Authors:
-- [Kamil (kamil991)](https://github.com/kamil991).
+- [Kamil (kamil34)](https://github.com/kamil34).
